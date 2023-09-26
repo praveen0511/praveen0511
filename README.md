@@ -4,8 +4,6 @@
 <h3 align="center">A Data Enthusiast from INDIA, #Exploring Data Horizons, One Byte at a Time 📊📈 #DataEnthusiast"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">Hi 👋, I'm Praveen Kumar Barange</h1>
-<h3 align="center">A Data Enthusiast from INDIA, #Exploring Data Horizons, One Byte at a Time 📊📈 #DataEnthusiast"</h3>
 
 - 🔭 I’m currently working on **Data Projects**
 
