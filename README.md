@@ -1,13 +1,15 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Praveen Kumar Barange</h1>
 
-<h3 align="center">A Data Enthusiast from INDIA, #Exploring Data Horizons, One Byte at a Time 📊📈 #DataEnthusiast"</h3>
+<h3 align="center">A Data Enthusiast from INDIA"</h3>
+<h3 align="center">#Exploring Data Horizons, One Byte at a Time 📊📈 #DataEnthusiast"</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on **Data Projects**
 
-- 💬 Ask me about **Data, Python, Power BI, MySQL, ML, Data Mining, Statistics , Analytics, Data Analysis**
+- 💬 Ask me about **Data, Python, Power BI, MySQL, ML, Data Mining, Statistics, Analytics, Data Analysis**
 
 - 📫 How to reach me **praveenbarange55@gmail.com**
 
